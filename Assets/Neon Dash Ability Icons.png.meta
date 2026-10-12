@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: ff65b8f437a00fb4594a0a774d936734
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7986057626849172182
+    second: Neon Dash Ability Icons_0
+  - first:
+      213: 7852059127322818524
+    second: Neon Dash Ability Icons_1
+  - first:
+      213: -2898458407063108615
+    second: Neon Dash Ability Icons_2
+  - first:
+      213: -8251862492893750212
+    second: Neon Dash Ability Icons_3
+  - first:
+      213: -5213965453315813041
+    second: Neon Dash Ability Icons_4
+  - first:
+      213: -2488881258962514315
+    second: Neon Dash Ability Icons_5
+  - first:
+      213: -1264260808243987325
+    second: Neon Dash Ability Icons_6
+  - first:
+      213: -7080209326595498077
+    second: Neon Dash Ability Icons_7
+  - first:
+      213: -6267126885702816372
+    second: Neon Dash Ability Icons_8
+  - first:
+      213: 5326845413768435731
+    second: Neon Dash Ability Icons_9
+  - first:
+      213: -8262828249601411754
+    second: Neon Dash Ability Icons_10
+  - first:
+      213: -4482461183116599742
+    second: Neon Dash Ability Icons_11
+  - first:
+      213: 1759279962888207619
+    second: Neon Dash Ability Icons_12
+  - first:
+      213: -2109262031933783833
+    second: Neon Dash Ability Icons_13
+  - first:
+      213: 7739859718564351829
+    second: Neon Dash Ability Icons_14
+  - first:
+      213: 6963180222918161559
+    second: Neon Dash Ability Icons_15
+  - first:
+      213: -6028825092357748541
+    second: Neon Dash Ability Icons_16
+  - first:
+      213: 896384586574510465
+    second: Neon Dash Ability Icons_17
+  - first:
+      213: -1475739594402278360
+    second: Neon Dash Ability Icons_18
+  - first:
+      213: 7163732853776077703
+    second: Neon Dash Ability Icons_19
+  - first:
+      213: 581168217745570153
+    second: Neon Dash Ability Icons_20
+  - first:
+      213: -7227047617568549678
+    second: Neon Dash Ability Icons_21
+  - first:
+      213: -7175870505564421706
+    second: Neon Dash Ability Icons_22
+  - first:
+      213: 1897558015162633960
+    second: Neon Dash Ability Icons_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 739
+        height: 967
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dad424891d24de60800000000000000
+      internalID: 7986057626849172182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 964
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7b07f9c2e18fc60800000000000000
+      internalID: 7852059127322818524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 64
+        width: 759
+        height: 906
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f342ca7f6b96c7d0800000000000000
+      internalID: -2898458407063108615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cd2bf68ce7b7d80800000000000000
+      internalID: -8251862492893750212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_4
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 727
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41d3f38b0644a7b0800000000000000
+      internalID: -5213965453315813041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_5
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 709
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e896f7ea7b57dd0800000000000000
+      internalID: -2488881258962514315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 687
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c3b254e71747ee0800000000000000
+      internalID: -1264260808243987325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_7
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 701
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af1ed8412b0ebd90800000000000000
+      internalID: -7080209326595498077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_8
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 671
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d22675d41b609a0800000000000000
+      internalID: -6267126885702816372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_9
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 405
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31816155ea1cce940800000000000000
+      internalID: 5326845413768435731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_10
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 366
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f17e3c79845d80800000000000000
+      internalID: -8262828249601411754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_11
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 353
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e9bd49d491bc1c0800000000000000
+      internalID: -4482461183116599742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 373
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30df9602ec73a6810800000000000000
+      internalID: 1759279962888207619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_13
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 351
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e04e587b556ab2e0800000000000000
+      internalID: -2109262031933783833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 277
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f02601861896b60800000000000000
+      internalID: 7739859718564351829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 212
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794ff0e258f22a060800000000000000
+      internalID: 6963180222918161559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 207
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c80e05458f455ca0800000000000000
+      internalID: -6028825092357748541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 177
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189b8e04809907c00800000000000000
+      internalID: 896384586574510465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 183
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8245cae58ae158be0800000000000000
+      internalID: -1475739594402278360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_19
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 183
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7835e1f4311ba6360800000000000000
+      internalID: 7163732853776077703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_20
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 183
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969b8753a69b01800800000000000000
+      internalID: 581168217745570153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_21
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 173
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d45efb7b7e54bb90800000000000000
+      internalID: -7227047617568549678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 185
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b141a96bcf2a6c90800000000000000
+      internalID: -7175870505564421706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Dash Ability Icons_23
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 177
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eec67a06fa755a10800000000000000
+      internalID: 1897558015162633960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Neon Dash Ability Icons_0: 7986057626849172182
+      Neon Dash Ability Icons_1: 7852059127322818524
+      Neon Dash Ability Icons_10: -8262828249601411754
+      Neon Dash Ability Icons_11: -4482461183116599742
+      Neon Dash Ability Icons_12: 1759279962888207619
+      Neon Dash Ability Icons_13: -2109262031933783833
+      Neon Dash Ability Icons_14: 7739859718564351829
+      Neon Dash Ability Icons_15: 6963180222918161559
+      Neon Dash Ability Icons_16: -6028825092357748541
+      Neon Dash Ability Icons_17: 896384586574510465
+      Neon Dash Ability Icons_18: -1475739594402278360
+      Neon Dash Ability Icons_19: 7163732853776077703
+      Neon Dash Ability Icons_2: -2898458407063108615
+      Neon Dash Ability Icons_20: 581168217745570153
+      Neon Dash Ability Icons_21: -7227047617568549678
+      Neon Dash Ability Icons_22: -7175870505564421706
+      Neon Dash Ability Icons_23: 1897558015162633960
+      Neon Dash Ability Icons_3: -8251862492893750212
+      Neon Dash Ability Icons_4: -5213965453315813041
+      Neon Dash Ability Icons_5: -2488881258962514315
+      Neon Dash Ability Icons_6: -1264260808243987325
+      Neon Dash Ability Icons_7: -7080209326595498077
+      Neon Dash Ability Icons_8: -6267126885702816372
+      Neon Dash Ability Icons_9: 5326845413768435731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
