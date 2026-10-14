@@ -18,6 +18,8 @@ public class Player_Controller : MonoBehaviour
     private float dashCounter;
     private float dashCooldownCounter;
     private bool isDashing;
+    public GameObject PauseMenu;
+    private bool isPaused = false;
 
     [Header("UI Reference")]
     [SerializeField] private Image dashCooldownImage; // Drag your UI Image here in the Inspector
@@ -31,6 +33,13 @@ public class Player_Controller : MonoBehaviour
 
     private void Update()   
     {
+        if (Input.GetKeyDown(KeyCode.Escape) && PauseMenu != null)
+        {
+            isPaused = !isPaused;
+            PauseMenu.SetActive(isPaused);
+            Time.timeScale = isPaused ? 0f : 1f;
+        }
+
         float movex = Input.GetAxisRaw("Horizontal");
         float movey = Input.GetAxisRaw("Vertical");
 
@@ -60,6 +69,8 @@ public class Player_Controller : MonoBehaviour
             {
                 transform.rotation = Quaternion.identity; 
             }
+
+
         }
 
         // --- DASH TIMERS & COOLDOWN UI ---
@@ -118,5 +129,11 @@ public class Player_Controller : MonoBehaviour
         {
             rb.MovePosition(rb.position + moveInput * (dashSpeed * Time.fixedDeltaTime));
         }
+    }
+
+    private void OnDisable()
+    {
+        // Avoid leaving the game paused if this player is removed or the scene changes.
+        Time.timeScale = 1f;
     }
 }

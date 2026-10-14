@@ -14,7 +14,7 @@ public class StartSceneManager : MonoBehaviour
     {
         if(Input.anyKeyDown)
         {
-            SceneManager.LoadScene("Testing");
+            SceneManager.LoadScene("Main Menu");
         }
     }
 }
