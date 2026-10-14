@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -90,7 +90,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -150,10 +150,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 19f46434544eb8130800000000000000
-      internalID: 3570198115753807761
+      spriteID: 6a1e731a974f84d4083503d6742c9d22
+      internalID: 189461224
       vertices: []
       indices: 
       edges: []
@@ -172,10 +172,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b42911ee30e3bbe40800000000000000
-      internalID: 5673196342203224651
+      spriteID: f9e0d0733b7502a4799d8af0b9aad3b9
+      internalID: -1353989936
       vertices: []
       indices: 
       edges: []
@@ -194,10 +194,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d7b238dded5482960800000000000000
-      internalID: 7577383196552276861
+      spriteID: 18bd168f71e2ed040b5d7c4056077916
+      internalID: 841758239
       vertices: []
       indices: 
       edges: []
@@ -216,10 +216,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 131eed424d71031c0800000000000000
-      internalID: -4526091425588256463
+      spriteID: 383597a03ce5aca4c91c7c2663a991d4
+      internalID: -1449168290
       vertices: []
       indices: 
       edges: []
@@ -238,10 +238,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6b11ac82839f30640800000000000000
-      internalID: 5045150027182903734
+      spriteID: a6bd2872a88070f4f9557b6770a7b33f
+      internalID: -821889044
       vertices: []
       indices: 
       edges: []
@@ -260,14 +260,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Cyber Shooter Pixel Art Sprite Sheet (1) (1)_0: -7945568937447590825
-      Cyber Shooter Pixel Art Sprite Sheet (1) (1)_1: 3570198115753807761
-      Cyber Shooter Pixel Art Sprite Sheet (1) (1)_2: 5673196342203224651
-      Cyber Shooter Pixel Art Sprite Sheet (1) (1)_3: 7577383196552276861
-      Cyber Shooter Pixel Art Sprite Sheet (1) (1)_4: -4526091425588256463
-      Cyber Shooter Pixel Art Sprite Sheet (1) (1)_5: 5045150027182903734
+      Cyber Shooter Pixel Art Sprite Sheet (1) (1)_1: 189461224
+      Cyber Shooter Pixel Art Sprite Sheet (1) (1)_2: -1353989936
+      Cyber Shooter Pixel Art Sprite Sheet (1) (1)_3: 841758239
+      Cyber Shooter Pixel Art Sprite Sheet (1) (1)_4: -1449168290
+      Cyber Shooter Pixel Art Sprite Sheet (1) (1)_5: -821889044
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
